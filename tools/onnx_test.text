@@ -1,0 +1,5 @@
+2020-12-17 15:31:55,833   INFO  Loading RoboSense dataset
+2020-12-17 15:31:56,069   INFO  Total samples for robosense dataset: 2045, for mode: test
+2020-12-17 15:32:00,918   INFO  ==> Loading parameters from checkpoint /home/syang/Projects/OpenPCDet/output/robosense_models/robosense_pointpillar/BResampl_LR001/ckpt/checkpoint_epoch_25.pth to GPU
+2020-12-17 15:32:03,024   INFO  ==> Checkpoint trained from version: pcdet+0.3.0+f982b5b
+2020-12-17 15:32:03,139   INFO  ==> Done (loaded 127/127)
