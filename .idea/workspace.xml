@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="819bced0-8415-4061-b72b-69c1c2965d01" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/tools/visual_utils/ros_detector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kitti/ImageSets/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kitti/ImageSets/train.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kitti/ImageSets/val.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/cfgs/dataset_configs/kitti_dataset.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/tools/cfgs/dataset_configs/kitti_dataset.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/cfgs/kitti_models/PartA2.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/tools/cfgs/kitti_models/PartA2.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/cfgs/kitti_models/pointpillar.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/tools/cfgs/kitti_models/pointpillar.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/cfgs/kitti_models/pv_rcnn.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/tools/cfgs/kitti_models/pv_rcnn.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/cfgs/kitti_models/second.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/tools/cfgs/kitti_models/second.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/cfgs/nuscenes_models/cbgs_pp_multihead.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/tools/cfgs/nuscenes_models/cbgs_pp_multihead.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/cfgs/nuscenes_models/cbgs_second_multihead.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/tools/cfgs/nuscenes_models/cbgs_second_multihead.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/tools/demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/scripts/dist_train.sh" beforeDir="false" afterPath="$PROJECT_DIR$/tools/scripts/dist_train.sh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fewiapICFu7X7KirDWy9hKZBw3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.ros_detector">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python" singleton="false">
+      <module name="OpenLidarPerceptron" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" singleton="false" temporary="true" nameIsGenerated="true">
+      <module name="OpenLidarPerceptron" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ros_detector" type="PythonConfigurationType" factoryName="Python" singleton="false" temporary="true" nameIsGenerated="true">
+      <module name="OpenLidarPerceptron" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tools/visual_utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/visual_utils/ros_detector.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ros_detector" />
+        <item itemvalue="Python.demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="819bced0-8415-4061-b72b-69c1c2965d01" name="Default Changelist" comment="" />
+      <created>1596591993818</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596591993818</updated>
+      <workItem from="1596591995324" duration="129000" />
+      <workItem from="1596592224707" duration="1113000" />
+      <workItem from="1596593954075" duration="23191000" />
+      <workItem from="1597040145270" duration="36098000" />
+      <workItem from="1597827329175" duration="76000" />
+      <workItem from="1597830027182" duration="1338000" />
+      <workItem from="1597993111143" duration="2252000" />
+      <workItem from="1598250754327" duration="614000" />
+      <workItem from="1598259917356" duration="2598000" />
+      <workItem from="1598405384761" duration="4311000" />
+      <workItem from="1598498063874" duration="3527000" />
+      <workItem from="1598838032262" duration="10026000" />
+      <workItem from="1598944703533" duration="16633000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="807" y="234" width="732" height="647" key="#Inspections" timestamp="1596592343698">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="807" y="234" width="732" height="647" key="#Inspections/72.27.1848.1053@72.27.1848.1053" timestamp="1596592343698" />
+    <state x="594" y="209" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596592647699">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="594" y="209" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1596592647699" />
+    <state x="1029" y="372" width="424" height="491" key="FileChooserDialogImpl" timestamp="1596593982093">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="1029" y="372" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1596593982093" />
+    <state width="1794" height="211" key="GridCell.Tab.0.bottom" timestamp="1599099711377">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1794" height="211" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1599099711377" />
+    <state width="1794" height="211" key="GridCell.Tab.0.center" timestamp="1599099711376">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1794" height="211" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1599099711376" />
+    <state width="1794" height="211" key="GridCell.Tab.0.left" timestamp="1599099711375">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1794" height="211" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1599099711375" />
+    <state width="1794" height="211" key="GridCell.Tab.0.right" timestamp="1599099711376">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1794" height="211" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1599099711376" />
+    <state width="1794" height="336" key="GridCell.Tab.1.bottom" timestamp="1598864679420">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1794" height="336" key="GridCell.Tab.1.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1598864679420" />
+    <state width="1794" height="336" key="GridCell.Tab.1.center" timestamp="1598864679420">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1794" height="336" key="GridCell.Tab.1.center/72.27.1848.1053@72.27.1848.1053" timestamp="1598864679420" />
+    <state width="1794" height="336" key="GridCell.Tab.1.left" timestamp="1598864679420">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1794" height="336" key="GridCell.Tab.1.left/72.27.1848.1053@72.27.1848.1053" timestamp="1598864679420" />
+    <state width="1794" height="336" key="GridCell.Tab.1.right" timestamp="1598864679420">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1794" height="336" key="GridCell.Tab.1.right/72.27.1848.1053@72.27.1848.1053" timestamp="1598864679420" />
+    <state x="701" y="161" width="1037" height="737" key="SettingsEditor" timestamp="1598405416469">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="701" y="161" width="1037" height="737" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1598405416469" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/OpenLidarPerceptron$ros_detector.coverage" NAME="ros_detector Coverage Results" MODIFIED="1599099711357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools/visual_utils" />
+    <SUITE FILE_PATH="coverage/OpenLidarPerceptron$demo.coverage" NAME="demo Coverage Results" MODIFIED="1597139263959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+  </component>
+</project>
